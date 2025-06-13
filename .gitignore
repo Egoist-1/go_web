@@ -1,8 +1,6 @@
 #忽略文件
 *.log
-
+.idea
+.vscode
 #忽略目录
 dist/
-
-#忽略文件下的特定目录
-dist/*.log
